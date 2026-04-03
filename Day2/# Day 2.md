@@ -28,7 +28,7 @@
 
 ### 🔹 Full Stack Learning – Call Hub Project
 
-* Continued deeper analysis of the project documentation
+* Continued deeper analysis of the project documentation [View Documentation](./_call%20hub%20documentation_.pdf)
 * Explored how different components interact in a real system
 * Built stronger clarity on how complete systems are structured and executed in practice
 
