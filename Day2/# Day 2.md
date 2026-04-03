@@ -26,6 +26,13 @@
 
 ---
 
+### 🔹 System Learning – Logs
+
+* Learned basics of logs
+* Understood their role in **debugging and tracking system activity**
+
+---
+
 ### 🔹 Full Stack Learning – Call Hub Project
 
 * Continued deeper analysis of the project documentation [View Documentation](./_call%20hub%20documentation_.pdf)
@@ -37,6 +44,7 @@
 ## 🎯 Key Takeaways
 
 * Clear understanding of how indexing works internally (page-level access)
+* Basic understanding of logs
 * Improved ability to analyze systems deeply
 * Better grasp of real-world backend + database interaction
 
