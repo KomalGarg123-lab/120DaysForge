@@ -11,6 +11,8 @@
 
 ## 📘 Learning & Preparation
 - Prepared a **Java cheat sheet for DSA**
+- ## 📄 Java DSA Cheat Sheet
+[Click here to view the cheat sheet](./java_Cheat_Sheet.pdf)
 - Covered:
   - Important syntax  
   - Common patterns  
