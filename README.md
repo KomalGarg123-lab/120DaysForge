@@ -1,4 +1,4 @@
-# 120 Days Learning Challenge (1st April - 31st July)
+# 120 Days Learning Challenge (1st April - 1st August)
 
 This repo tracks my 4-month learning journey from **1st April to 31st July**. Each day, I will update what I completed in ML, DL, Full-Stack projects, and DSA practice. The goal is to revise, learn, build projects, and improve problem-solving consistently.
 
